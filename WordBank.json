@@ -1,0 +1,43 @@
+{
+	"origin": [
+		"#Guardian#! #Characters# are #verb# #invention# in the #location#!"
+	],
+	"Guardian": [
+		"Mom",
+		"Dad",
+		"Grandma",
+		"Grandpa"
+	],
+	"Characters": [
+		"​​Buford and Baljeet",
+		"Isabella and the Fireside Girls",
+		"Phineas and Ferb",
+		"Dad and the boys",
+		"Isabella and Phineas"
+	],
+	"verb": [
+		"building",
+		"making",
+		"creating",
+		"constructing",
+		"designing",
+		"inventing"
+	],
+	"invention": [
+		"a life-size bowling ball",
+		"a time machine",
+		"a rollercoaster",
+		"a rocket",
+		"a giant robotic clown",
+		"an aquarium",
+		"a magic carpet",
+		"an ice rink"
+	],
+	"location": [
+		"backyard",
+		"front yard",
+		"house",
+		"garage",
+		"streets of Danville"
+	]
+}
