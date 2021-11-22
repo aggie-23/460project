@@ -1,6 +1,6 @@
 {
 	"origin": [
-		"#Guardian#! #Characters# are #verb# #invention# in the #location#!"
+		"#Guardian#! #Characters# are #verb# #invention# #preposition# the #location#!"
 	],
 	"Guardian": [
 		"MOMMMMMMMMM",
@@ -26,7 +26,7 @@
 		"Phineas and Ferb",
 		"Phineas and Ferb",
 		"Phineas and Ferb",
-		"Dad and the boys",
+		"The boys",
 		"Isabella and Phineas",
 		"Stacy and Jenny"
 	],
@@ -67,6 +67,13 @@
 		"a teleporter",
 		"a treehouse robot",
 		"a virtual video game world"
+	],
+	"preposition": [
+		"in",
+		"around",
+		"throughout",
+		"outside of",
+		"next to"
 	],
 	"location": [
 		"backyard",
