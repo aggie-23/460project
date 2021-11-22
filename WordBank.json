@@ -7,8 +7,12 @@
 		"MOMMMMMMMMM",
 		"MOMMMMMMMMMM",
 		"MOMMMMMMMMMM",
+		"Mom",
+		"Dad",
 		"DAAAAAAAAAAD",
+		"Grandma",
 		"GRANDMAAAAAA",
+		"Grandpa",
 		"GRANDPAAAAAA"
 	],
 	"Characters": [
@@ -44,8 +48,10 @@
 		"backyard",
 		"front yard",
 		"house",
+		"living room",
 		"garage",
 		"streets of Danville",
-		"Tri-State Area"
+		"Tri-State Area",
+		"my room"
 	]
 }
