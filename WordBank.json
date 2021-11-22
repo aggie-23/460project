@@ -54,7 +54,7 @@
 		"a hair growth machine",
 		"a bounce house",
 		"an amusement park",
-		"an underwater slide"
+		"an underwater slide",
 		"a race track",
 		"a non-reflection mirror",
 		"a mind share device",
@@ -71,9 +71,7 @@
 	"preposition": [
 		"in",
 		"around",
-		"throughout",
-		"outside of",
-		"next to"
+		"by"
 	],
 	"location": [
 		"backyard",
@@ -83,6 +81,7 @@
 		"garage",
 		"streets of Danville",
 		"Tri-State Area",
-		"basement"
+		"basement",
+		"attic
 	]
 }
